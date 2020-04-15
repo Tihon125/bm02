@@ -1,0 +1,4 @@
+import time,threading
+def func():
+  print('123')
+ 
